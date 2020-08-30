@@ -25,6 +25,8 @@ import Facility from "./screens/facility/index";
 import Request from "./screens/request/index";
 import Schedule from "./screens/schedule/index";
 import UpcomingShifts from "./screens/upcoming/index";
+import Dashboard2 from "./screens/dashboard2/index";
+import Schedule1 from "./screens/schedule1/index";
 
 
 
@@ -62,6 +64,8 @@ ReactDOM.render(
         <Route path="/request" component={Request} />
         <Route path="/upcomingshifts" component={UpcomingShifts} />
         <Route path="/schedule" component={Schedule} />
+        <Route path="/dashboard2" component={Dashboard2} />
+        <Route path="/schedule1" component={Schedule1} />
 
 
         <Route path="/n-cards" component={cards} />

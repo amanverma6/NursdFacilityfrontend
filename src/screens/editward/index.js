@@ -147,16 +147,39 @@ const Faci = ()=>{
                       <div id="basic-select">
                          <select className="ewarrow">
                              <option value=" ">   </option>
-                             <option value="one">One</option>
-                             <option value="two">Two</option>
-                             <option value="three">Three</option>
-                             <option value="four">Four</option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
+                         </select>
+                         </div>
+                         <div id="basic-select">
+                         <select className="ewarrow">
+                             <option value=" ">   </option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
+                         </select>
+                         </div>
+                         <div id="basic-select">
+                         <select className="ewarrow">
+                             <option value=" ">   </option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
                          </select>
                          </div>
                 </div>
-                
-                <input className="ewin"  type="text" />
-                <input className="ewin"  type="text" />
+               
+    
               </Grid>
               <Grid item xs={6}>
                 <div> <label className="ewname">
@@ -168,22 +191,46 @@ const Faci = ()=>{
                 <input  className="ewin1" type="text" />
               </Grid>
               <Grid item xs={6}>
-        
-                <div> <label className="ewname">
+              <div> <label className="ewname">
                         <p className="ewp"> Nurses</p>
                       </label>
                       <div id="basic-select">
                          <select className="ewarrow">
                              <option value=" ">   </option>
-                             <option value="one">One</option>
-                             <option value="two">Two</option>
-                             <option value="three">Three</option>
-                             <option value="four">Four</option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
+                         </select>
+                         </div>
+                         <div id="basic-select">
+                         <select className="ewarrow">
+                             <option value=" ">   </option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
+                         </select>
+                         </div>
+                         <div id="basic-select">
+                         <select className="ewarrow">
+                             <option value=" ">   </option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
                          </select>
                          </div>
                 </div>
-                <input className="ewin"  type="text" />
-                <input className="ewin"  type="text" />
+               
+    
+              
               </Grid>
               <Grid item xs={6}>
                 <div> <label className="ewname">
@@ -195,22 +242,45 @@ const Faci = ()=>{
                 <input  className="ewin1" type="text" />
               </Grid>
               <Grid item xs={6}>
-        
-                <div> <label className="ewname">
-                        <p className="ewp"> Nurses</p>  
-                      </label> 
+              <div> <label className="ewname">
+                        <p className="ewp"> Nurses</p>
+                      </label>
                       <div id="basic-select">
                          <select className="ewarrow">
                              <option value=" ">   </option>
-                             <option value="one">One</option>
-                             <option value="two">Two</option>
-                             <option value="three">Three</option>
-                             <option value="four">Four</option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
                          </select>
-                         </div>  
+                         </div>
+                         <div id="basic-select">
+                         <select className="ewarrow">
+                             <option value=" ">   </option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
+                         </select>
+                         </div>
+                         <div id="basic-select">
+                         <select className="ewarrow">
+                             <option value=" ">   </option>
+                             <option value="one">Registered Nurse (RN)</option>
+                             <option value="two">Licensed Practical Nurse (LPN)</option>
+                             <option value="three">Certified Nursing Assistant (CNA)</option>
+                             <option value="four">Certified Registered Nurse Anesthetists (CRNA)</option>
+                             <option value="four">Nurse Practictioner (NP)</option>
+                             <option value="four">Physician Assistant (PA)</option>
+                         </select>
+                         </div>
                 </div>
-                <input className="ewin"  type="text" />
-                <input className="ewin"  type="text" />
+              
+                
               </Grid>
               
               <Grid item xs={6}>
@@ -222,9 +292,10 @@ const Faci = ()=>{
                 <input  className="ewin1" type="text" />
                 <input  className="ewin1" type="text" />
               </Grid>
-              
-              
               <Grid item xs={6}>
+              
+  
+              
               
               
               <Link to="/shiftset" style={{color:"white"}}><button style={{

@@ -241,6 +241,7 @@ const Faci = ()=>{
                               <img src={Settings} alt="Settings" className="settings"/>
                               <p className="specs"> Specialisation </p>
                               <div>
+                              <Link to ="/n-application">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -249,6 +250,9 @@ const Faci = ()=>{
                                       }}
                                       className="butt" >
                                       <span style={{fontSize:"0.9rem"}}>Easy Apply</span></button>
+                                      </Link>
+
+                                      <Link to ="/n-detaliedJobs">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -257,6 +261,7 @@ const Faci = ()=>{
                                       }}
                               className="butt2">
                                       <span style={{fontSize:"0.9rem"}}> view details</span></button>
+                                      </Link>
                               </div>
                             </div>
                            </CardContent>
@@ -284,6 +289,7 @@ const Faci = ()=>{
                               <img src={Settings} alt="Settings" className="settings"/>
                               <p className="specs"> Specialisation </p>
                               <div>
+                              <Link to ="/n-application">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -292,6 +298,8 @@ const Faci = ()=>{
                                       }}
                                className="butt" >
                                       <span style={{fontSize:"0.9rem"}}>Easy Apply</span></button>
+                                      </Link>
+                                      <Link to ="/n-detaliedJobs">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -300,6 +308,7 @@ const Faci = ()=>{
                                       }}
                                className="butt2">
                                       <span style={{fontSize:"0.9rem"}}> view details</span></button>
+                                      </Link>
                               </div>
                             </div>
                            </CardContent>
@@ -327,6 +336,7 @@ const Faci = ()=>{
                               <img src={Settings} alt="Settings" className="settings"/>
                               <p className="specs"> Specialisation </p>
                               <div>
+                              <Link to ="/n-application">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -335,6 +345,8 @@ const Faci = ()=>{
                                       }}
                               className="butt" >
                                       <span style={{fontSize:"0.9rem"}}>Easy Apply</span></button>
+                                      </Link>
+                                      <Link to ="/n-detaliedJobs">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -343,6 +355,7 @@ const Faci = ()=>{
                                       }}
                               className="butt2">
                                       <span style={{fontSize:"0.9rem"}}> view details</span></button>
+                                      </Link>
                               </div>
                             </div>
 
@@ -371,6 +384,7 @@ const Faci = ()=>{
                               <img src={Settings} alt="Settings" className="settings"/>
                               <p className="specs"> Specialisation </p>
                               <div>
+                              <Link to ="/n-application">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -379,6 +393,9 @@ const Faci = ()=>{
                                       }}
                               className="butt" >
                                       <span style={{fontSize:"0.9rem"}}>Easy Apply</span></button>
+
+                                      </Link>
+                                      <Link to ="/n-detaliedJobs">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -387,6 +404,7 @@ const Faci = ()=>{
                                       }}
                                className="butt2">
                                       <span style={{fontSize:"0.9rem"}}> view details</span></button>
+                                      </Link>
                                </div>
                             </div>
                            </CardContent>
@@ -414,6 +432,7 @@ const Faci = ()=>{
                               <img src={Settings} alt="Settings" className="settings"/>
                               <p className="specs"> Specialisation </p>
                               <div>
+                              <Link to ="/n-application">
                               <button style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -422,6 +441,8 @@ const Faci = ()=>{
                                       }}
                               className="butt" >
                                       <span style={{fontSize:"0.9rem"}}>Easy Apply</span></button>
+                                      </Link>
+                                      <Link to ="/n-detaliedJobs">
                               <button  style={{
                                       paddingTop:"0.3rem",
                                       paddingRight:"0.7rem",
@@ -430,6 +451,7 @@ const Faci = ()=>{
                                       }}
                               className="butt2">
                                       <span style={{fontSize:"0.9rem"}}> view details</span></button>
+                                      </Link>
                               </div>
                             </div>
                            </CardContent>

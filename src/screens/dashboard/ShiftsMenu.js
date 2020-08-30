@@ -70,7 +70,7 @@ export default function CustomizedMenus() {
         onClose={handleClose}
       >
         <StyledMenuItem>
-        <Link to="/">
+        <Link to="/schedule1">
           <ListItemText primary="Schedule" />
         </Link>
         </StyledMenuItem>

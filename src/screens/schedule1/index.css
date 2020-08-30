@@ -1,0 +1,147 @@
+.sulogotop{
+  margin-top: 20px;
+}
+
+.sutopnav{
+  height: 90px;
+  background-color:#FFFF;
+}
+.MuiAppBar-colorPrimary{
+  background-color: #FFF;
+  color: #000000;
+
+}
+.MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary topnav MuiPaper-elevation4{
+  background-color: #FFF;
+  color: #000000;
+}
+.subutt3{
+  display: inline;
+  margin-left: 650px;
+  margin-top: 20px;
+  background: #1082CB;
+  color: white;
+  border: 1px solid #1082CB;
+  border-radius: 3px;
+}
+.subutt3:hover{
+    background: #38b1ff;
+    color: white;
+    border: 2px solid #1082CB;
+}
+.sushifts{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: black;
+}
+.subell{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.suac{
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.suavatar{
+  margin-top: 80px;
+  margin-left: 60px;
+  width: 130px;
+}
+
+.sup{
+  font-family: 'century-gothic';
+}
+
+.suupcoming{
+  padding:12px;
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.suup{
+  display:inline;
+  font-size: 20px;
+  align:center;
+
+}
+.suleft{
+  display:inline;
+}
+.suright{
+  display:inline;
+}
+
+.suhead7{
+  font-size: 25px;
+  margin-left: 80px;
+  margin-top: 2px;
+}
+.sulist{
+  margin-left: 80px;
+  font-size: 15px;
+}
+
+.sucardhead1{
+  background-color: #F1FAFF;
+  margin-top: 50px;
+  border-radius: 15px 15px 0px 0px;
+  padding: 20px;
+  width: 100%;
+}
+
+.subutt{
+
+      background: #1082CB;
+      color: white;
+      position: center;
+      border: 1px solid #1082CB;
+      font-family: century gothic;
+      border-radius: 2px;
+      height:"0.5rem";
+      width:"10px";
+
+      float: right;
+     }
+.subutt:hover{
+      background: #38b1ff;
+      color: white;
+      border: 1px solid #1082CB;
+  }
+  .suinsight{
+  font-family: Gotham;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+    display:inline;
+    position: left;
+    color: #1082CB;
+  }
+
+  p{
+    font-family: century-gothic
+  }
+
+  .suleft{
+    display:inline;
+  }
+
+  .sudate{
+    font-size: 15px;
+    display:inline;
+  }
+  .suright{
+    display:inline;
+    margin-left: 5px;
+  }
+
+  .sucardhead{
+    background-color: #F1FAFF;
+    margin-top: 50px;
+    margin-left: 320px;
+    border-radius: 15px 15px 0px 0px;
+    padding: 20px;
+    width: 60%;
+    height: 20px;
+  }

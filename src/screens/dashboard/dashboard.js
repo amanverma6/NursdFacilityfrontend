@@ -46,11 +46,10 @@ const Faci = ()=>{
                 <img src={Group65} alt="Group" className="dflogotop"/>
                 <Link to="/request">
                 <button style={{
-                        marginLeft:'500px',
                         paddingTop:"0.3rem",
-                        paddingRight:"0.3rem",
+                        paddingRight:"0.7rem",
                         paddingBottom:"0.3rem",
-                        paddingLeft:"0.3rem"
+                        paddingLeft:"0.7rem"
                         }}
                         className="dfbutt7" >
                         <span style={{fontSize:"0.9rem"}}>Post a Request</span></button>
@@ -67,7 +66,7 @@ const Faci = ()=>{
                         <span style={{fontSize:"0.9rem"}}>Dashboard</span></button>
                         </Link>
 
-
+                        
 
 
 
@@ -77,24 +76,27 @@ const Faci = ()=>{
                         <div className="dfshifts">
                         <ToolsMenu />
                         </div>
-
+                        
                         <img src={Bell} alt="Bell" className="dfbell"/>
 
                         <div className="ac">
                         <AccountsMenu />
                         </div>
+                        
 
 
 
-
-
+                        
               </Toolbar>
             </AppBar>
           </div>
 
          <p className="dfHI"> Hi Anna! Today's Schedule for Elixy Medical Facility,Illionis 60025</p>
          <div className="dfbox" style={{backgroundColor:'white'}}>
-          <p className ="dfadd"> There are no shifts added today </p> <Button style={{color:'#1082CB', display:'inline', width:'110px', marginRight:'200px',marginBottom:'25px', marginTop: '10px;'}} className="pa"> Add a shift </Button>
+          <p className ="dfadd"> There are no shifts added today </p> 
+          <Link to="/upcomingshifts">
+            <Button style={{color:'#1082CB', display:'inline', width:'110px', marginRight:'200px',marginBottom:'25px', marginTop: '10px;'}} className="pa"> Add a shift </Button>
+           </Link>
          </div>
          <div>
             <div>
